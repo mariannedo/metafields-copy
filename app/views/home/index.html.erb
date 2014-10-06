@@ -1,0 +1,9 @@
+<h1>Shopify Metafield Copy Test</h1> 
+  <% @products.each do |p| %>
+  <p>
+    <%= p.title %>
+    <% p.metafields.each do |m| %>
+      <p><%= m.key %> : <%= m.value %></p>
+    <% end %>
+  </p>
+  <% end %>
