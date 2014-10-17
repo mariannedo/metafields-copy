@@ -21,3 +21,5 @@ module MetafieldsCopy
     # config.i18n.default_locale = :de
   end
 end
+
+#ex_url = "https://[[KEY]]:[[PASSWORD]]@[[STORE-URL]].myshopify.com/admin"

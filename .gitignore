@@ -18,6 +18,3 @@
 # keys (for now)
 /config/initializers/set_shop.rb
 keyz.txt
-
-# secret? don't even know what this is.
-/config/secrets.yml
